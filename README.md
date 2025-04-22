@@ -22,9 +22,11 @@
 
 ## 📫 Let's Connect
 - 🌐 Website: [tofayelahmed.com](https://tofayelahmed.com)  
-- 📧 Email: [your-email@example.com] *(replace with actual email)*  
+- 📧 Email: support@tofayelahmed.com  
 - 🐙 GitHub: [@TofayelAhmedRafi](https://github.com/TofayelAhmedRafi)  
-- 📷 Instagram / Facebook / LinkedIn:
+- 📷 Instagram:
+- 📘 Facebook: https:/facebook.com/TofayelAhmedRafi
+- LinkedIn:
 
 ---
 
