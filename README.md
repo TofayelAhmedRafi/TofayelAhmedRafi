@@ -29,9 +29,9 @@
 - 📘 Facebook: [@TofayelAhmedRafi](https://facebook.com/TofayelAhmedRafi)
 - 📷 Instagram: [@TofayelAhmedRafi](https://instagram.com/TofayelAhmedRafi)
 - 💼 LinkedIn: [@TofayelAhmedRafi](https://linkedin.com/in/TofayelAhmedRafi)
-- 🐦 Twitter/X: [@TofayelRafi](https://twitter.com/TofayelRafi) *(if applicable)*
+- 🐦 Twitter/X: [@TofayelRafi](https://twitter.com/TofayelAhmedRafi)
 - 🎥 YouTube: [@TofayelAhmedRafi](https://youtube.com/@TofayelAhmedRafi)
-- 📧 Email: support\@tofayelahmed.com
+- 📧 Email: support@tofayelahmed.com
 
 ---
 
