@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tofayel Ahmed Rafi (@TofayelAhmedRafi)
+# 👋 Hi, I'm Tofayel Ahmed (@TofayelAhmedRafi)
 
 🚀 A passionate Full Stack Web Developer & SEO Expert from Bangladesh\
 🎯 Specializing in MERN Stack, WordPress, PHP, and Python\
